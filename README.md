@@ -24,8 +24,8 @@ By utilizing both modalities (speech and facial expression), this system can enh
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/VRAJ-07/Realtime_Emotion_-_Speech_Detection.git
-cd Multimodal_Emotion_Detection
+git clone https://github.com/VRAJ-07/Multimodal-Emotion-Detection-System.git
+cd Multimodal-Emotion-Detection-System
 ```
 
 ### 2. Install dependencies
